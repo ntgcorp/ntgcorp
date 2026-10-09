@@ -1,6 +1,6 @@
-# NTG — Python Automation Ecosystem
+# NTG — Automation Ecosystem
 
-**Practical Python tools for system administrators and developers.**
+**Practical Python/Bash/Cmd/Other tools for system administrators and developers.**
 
 NTG is a collection of independent, complementary tools designed to automate repetitive tasks, manage systems, process files and work with structured data.
 
