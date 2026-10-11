@@ -42,3 +42,5 @@ Choose the repository that best matches your task, read its documentation and fo
 **Install our PythonX64 Portable from Download:** [gdrive share download](https://drive.google.com/drive/folders/1LE2lc7mdW9kKMZOPh1Yoo6eADkx8E5JT?usp=sharing)
 
 More tools and projects may be introduced as the ecosystem evolves.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B75JQA3)
